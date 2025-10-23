@@ -1,0 +1,15 @@
+<p></p> - parágrafo simples
+<br> - Quebrar a linha
+Símbolos para HTML: https://www.w3schools.com/charsets/ref_utf_symbols.asp
+Emojis para HTML: http://emojipedia.org/
+
+lt = lass than
+gt = greather than
+  |       |
+  v       v
+&lt; tag &gt;
+
+
+Um símbolo de emoji sempre começa com &#x (Exemplo: "&#x[Número do Emoji]").
+
+

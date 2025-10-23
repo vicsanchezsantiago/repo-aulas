@@ -1,0 +1,26 @@
+A tag <strong> significa que o termo delimitado possui força dentro da frase. Logo, 
+ele aparecerá em negrito. 
+Já a tag <em> significa que queremos dar ênfase (do Inglês emphasis) ao termo. 
+Logo, ele aparecerá em itálico. 
+
+Para fazer marcas (marca texto) em HTML5, usamos a tag <mark>…</mark>
+
+ a tag <del> deixa o texto tachado.
+
+<ins> e </ins> sublinhar
+
+<sub> e <sup> subscrito/sobrescrito (ex: profº)
+
+<code> trechos de código
+
+
+<pre> mantém o texto pré-formatado, exatamente da mesma maneira na qual ele foi digitado, incluindo quebras de linhas, espaços e tabulações.
+
+
+<q> citação sem deslocamento
+<bockquote> cita em parágrafo exclusivo. 
+Colocando o parâmetro Cite faz ref ao livro/autor.
+
+Sempre que você quiser escrever uma sigla, mas deixar claro ao usuário (e aos mecanismos de busca) o significado dela, use a tag <abbr>.
+
+<bdo> texto invertido

@@ -1,0 +1,10 @@
+* Opte sempre pelo formato JPEG com uma compactação entre 30% e 50%. O formato PNG só deverá ser usado quando precisarmos de transparência na foto.
+
+* A tag <img> tem como parâmetros 
+básicos o src (que vem de source, origem) e alt (que vem de alternative ou texto 
+alternativo);
+
+* Pressione Ctrl+Espaço e o editor vai te mostar uma listagem com todos os arquivo disponíveis na pasta do seu projeto;
+- usar o alt para descrição das imagens é primordial, principalmente se tratanto em Acessibilidade (áudio-descrição);
+
+

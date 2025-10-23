@@ -1,0 +1,197 @@
+/* #region global */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../font/Roboto-Light.ttf');
+}
+
+.container {
+    font-family: 'Roboto';
+    list-style: none;
+}
+
+/* #endregion */
+
+/* #region logo */
+
+.logo {
+    width: 100%;
+    height: 800px;
+    background-image: url('../img/superHero.jpg');
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+
+.logo ul {
+    text-align: center;
+    padding-top: 300px;
+}
+
+.logo ul li {
+    padding: 5px 0;
+}
+
+.logo ul h2 {
+    font-size: 50px;
+}
+
+.logo ul li button {
+    background-color: rgba(146, 146, 146, 0.315);
+    color: white;
+    border: 1px solid white;
+    width: 100px;
+    height: 35px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+
+/* #endregion */
+
+/* #region texto_topo */
+
+.texto_topo {
+    width: 100%;
+    height: 300px;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.texto_topo h2 {
+    text-align: center;
+    padding: 35px 0;
+    font-size: 30px;
+}
+
+.texto_topo ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 0 400px;
+    list-style: none;
+    text-align: center;
+}
+
+.texto_topo ul li {
+    padding: 0 50px;
+}
+
+/* #endregion */
+
+/* #region card */
+
+.card {
+    width: 100%;
+    height: 650px;
+    background-color: rgb(51, 51, 51);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.card ul {
+    list-style: none;
+    width: 100px;
+    height: 450px;
+    background-color: rgb(255, 255, 255);
+    flex-basis: 16%;
+    margin: 100px 30px;
+    text-align: center;
+}
+
+.card img {
+    width: 100%;
+    height: 150px;
+}
+
+.card ul li h1 {
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.card ul li p {
+    height: 150px;
+    padding: 30px 20px 0;
+    font-size: 16px;
+}
+
+.card ul li button {
+    margin-top: 20px;
+    color: white;
+    background-color: rgb(51, 51, 51);
+    width: 60px;
+    height: 25px;
+    border-radius: 5px;
+    border: none;
+    font-size: 12px;
+}
+
+/* #endregion */
+
+/* #region footer */
+
+.footer {
+    width: 100%;
+    height: 650px;
+    text-align: center;
+
+}
+
+.footer_contact_about {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    justify-content: center;
+}
+
+.footer>h2 {
+    padding: 60px 0 30px;
+    font-size: 30px;
+}
+
+.footer>p {
+    padding: 20px 500px 80px;
+}
+
+.footer ul {
+    list-style: none;
+    height: 300px;
+    flex-basis: 50%;
+    text-align: center;
+    align-items: center;
+}
+
+.footer_contact_about h2 {
+    font-size: 30px;
+    padding-top: 100px;
+}
+
+.footer ul li p {
+    margin: 50px 200px;
+    text-align: center;
+}
+
+#footer_contact {
+    background-color: rgb(119, 119, 253);
+}
+
+#footer_about {
+    background-color: rgb(48, 206, 56);
+}
+
+.copy {
+    background-color: rgb(51, 51, 51);
+    height: 50px;
+    margin-top: 60px;
+    color: white;
+    padding-top: 25px;
+}
+
+/* #endregion */

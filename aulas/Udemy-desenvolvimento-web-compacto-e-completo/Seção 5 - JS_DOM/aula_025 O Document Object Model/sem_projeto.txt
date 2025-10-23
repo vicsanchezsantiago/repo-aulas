@@ -1,0 +1,13 @@
+O que é DOM
+Document Object Model
+Representação de dados dos obj que compoem a estrutura de uma página web
+
+nodes - partes individuais do documento
+
+
+Document 
+    > <html> 
+        > head / body 
+            > <tag>
+
+DOM - JS constrói elementos, navegar, adicionar/mod elementos
